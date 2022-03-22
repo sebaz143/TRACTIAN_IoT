@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:14:01 p. m. On 21/03/2022
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Tractian_IoT.PcbDoc]
+   Generated File[Tractian_IoT-RoundHoles.TXT]
+   Generated File[Tractian_IoT-SlotHoles.TXT]
+   Generated File[Tractian_IoT.LDP]
+   Generated File[Tractian_IoT.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:14:02 p. m. On 21/03/2022

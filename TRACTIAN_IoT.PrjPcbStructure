@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Flash Memory|SchDesignator=Flash Memory|FileName=SD.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=SD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=ESP32.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Power Supply Stage|SchDesignator=Power Supply Stage|FileName=Battery_Charger.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Battery_Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
